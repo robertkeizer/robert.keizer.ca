@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Strange Ramblings
+email:       robert@keizer.ca
+author:      Robert Keizer
+description: ""
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://robert.keizer.ca"
 
 # Google analytics
 google_analytics:
@@ -20,11 +20,11 @@ disqus_shortname:
 
 # Social icons
 show_social_icons: false
-github_username:
+github_username: robertkeizer
 stackoverflow_id:
-twitter_username:
+twitter_username: 
 google_plus_id:
-linkedin_username:
+linkedin_username: robkeizer
 bitcoin_url:
 paypal_url:
 flattr_button:
