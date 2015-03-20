@@ -1,19 +1,15 @@
 ---
 layout: page
-title: About Pixyll
+title: About Rob
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Over the years I have worn many hats, from Architect to Developer to [rack monkey](http://www.urbandictionary.com/define.php?term=rack+monkey).
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+My GPG key is [0xf563b68c61577c44](https://hkps.pool.sks-keyservers.net/pks/lookup?op=vindex&search=0xf563b68c61577c44).
 
-Thanks to the following:
+I'm a member and sit on the board of directors for [Skullspace](http://skullspace.ca/) and [MUUG](http://muug.mb.ca/).
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+ * [github](https://github.com/robertkeizer)
+ * [linkedin](http://ca.linkedin.com/in/robkeizer)
+ * [firstname at lastname dot ca](mailto:firstname@lastname.ca)
