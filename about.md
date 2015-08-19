@@ -3,13 +3,7 @@ layout: page
 title: About Rob
 permalink: /about/
 ---
-
-Over the years I have worn many hats, from Architect to Developer to [rack monkey](http://www.urbandictionary.com/define.php?term=rack+monkey).
-
-My GPG key is [0xf563b68c61577c44](https://hkps.pool.sks-keyservers.net/pks/lookup?op=vindex&search=0xf563b68c61577c44).
-
-I'm a member and sit on the board of directors for [Skullspace](http://skullspace.ca/) and [MUUG](http://muug.mb.ca/).
-
- * [github](https://github.com/robertkeizer)
- * [linkedin](http://ca.linkedin.com/in/robkeizer)
- * [firstname at lastname dot ca](mailto:firstname@lastname.ca)
+I sit on the board of [Skullspace](http://skullspace.ca/), [MUUG](http://muug.mb.ca/), and [ColdHak](https://coldhak.ca/). I use [GPG](https://en.wikipedia.org/wiki/GNU_Privacy_Guard). So should you. My fingerprint is below.
+<pre>
+E5EF 0CAC 1882 65F1 2339  EFD6 F563 B68C 6157 7C44
+</pre>
